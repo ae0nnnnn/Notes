@@ -121,11 +121,37 @@ Impact of Success: The ultimate success of budgeting depends on factors like the
 
 ## Marketing 
 
-Marketing  is the management process involved in identifying, anticipating and satisfying customer needs profitably.
+Marketing  is the management process involved in identifying, anticipating and satisfying customer needs profitably
 
-Marketing is far more than simply advertising and the selling of products and services.
+Marketing is far more than simply advertising and the selling of products and services
 
-Its primarily focused upon the satisfaction of customer wants and
-   
-   
-   
+It's primarily focused upon the satisfaction of consumer wants and needs and because these are always changing so marketing never stands still either.
+
+Marketing Activities 
+Reaching the market
+Market analysis
+Establishing Marketing objectives
+Devising marketing strategies Based around the 4P’s
+
+These are just a small sample of the range of marking activities that aim to provide goods and services that will satfisy customer needs and generate a profit for the business 
+
+### The Importance of Orientation
+
+A business will have to make a decision about what they wish to focus their attraction upon as part of their business activities.
+
+Do they focus upon the product and the production process with the intention of creating technical proficiency that they can offer to the customer.
+
+Or do they focus on meeting the demands of the customer and produce goods and services that they want?
+
+### Types of Orientation 
+
+### Product Orientation 
+
+Product orientated firms focus their efforts upon creating and developing a technically advance product before then trying to sell to the consumer  
+
+Advantages
+
+- The business is able focus upon their own strengths
+- Customers are likely to demonstrate brand loyalty due to the quality and uniqueness of the product offering 
+- Its allows a business to develop a reputation for innovation and quality as they are focused upon product development 
+- 

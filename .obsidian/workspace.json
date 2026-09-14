@@ -1,41 +1,52 @@
 {
   "main": {
-    "id": "e75e204a9be8a330",
+    "id": "120900a2b2facc7d",
     "type": "split",
     "children": [
       {
-        "id": "aef752860705e088",
+        "id": "515402c669605131",
         "type": "tabs",
         "children": [
           {
-            "id": "3aadaad4b60c7ddc",
+            "id": "8d97263b016da5d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Sci/Unit 1/1.3.2 - Networks.md",
+                "file": "Business Studies/Component 1 - Opportunities and Finance/Business Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.3.2 - Networks"
+              "title": "Business Functions"
+            }
+          },
+          {
+            "id": "a79f212975261d12",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "54cbc9b5291051a2",
+    "id": "6c7882cdd6482b22",
     "type": "split",
     "children": [
       {
-        "id": "72c65f1a31ed2fda",
+        "id": "370005f6dd876f21",
         "type": "tabs",
         "children": [
           {
-            "id": "7d7e1d864e89dcb0",
+            "id": "353c7a92e0a3226a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,12 +61,12 @@
             }
           },
           {
-            "id": "9848a71294debf90",
+            "id": "56981e2937157af9",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "thi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,11 +78,14 @@
             }
           },
           {
-            "id": "5ead215a8efd1564",
+            "id": "39a8a3fcaf54a462",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -80,23 +94,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "7c074c2624b1e706",
+    "id": "d78fc5d0e2968ccb",
     "type": "split",
     "children": [
       {
-        "id": "622bfbebddc425ef",
+        "id": "dbe300b51d3c0286",
         "type": "tabs",
         "children": [
           {
-            "id": "00872422ce4c6f0f",
+            "id": "4f725d91c04c3e44",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Sci/Unit 1/1.3.2 - Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,21 +123,20 @@
             }
           },
           {
-            "id": "4cff840a0af6bb57",
+            "id": "dbd0d02ae65077a4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.2.4 - Types of Programming Languages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1.2.4 - Types of Programming Languages"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "cf744366ad4d3e22",
+            "id": "93e1f43823a3e532",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -139,7 +151,7 @@
             }
           },
           {
-            "id": "361c2f1b2203b71e",
+            "id": "54feb382fbc2364b",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -153,22 +165,21 @@
             }
           },
           {
-            "id": "feb5274778c11338",
+            "id": "90ce5ded2ddc91d3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline"
             }
           },
           {
-            "id": "0f89d216fa64d1a1",
+            "id": "bd344e355e1a3ce1",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -182,66 +193,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templates:Insert template": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3aadaad4b60c7ddc",
+  "active": "a79f212975261d12",
   "lastOpenFiles": [
-    "Computer Sci/Unit 1/1.2.4 - Types of Programming Languages.md",
-    "Computer Sci/Unit 1/1.3.2 - Networks.md",
-    "Computer Sci/Unit 1/1.1.1 - Structure and function of the processor..md",
-    "Computer Sci/Unit 2/2.1.2 -  Thinking Ahead.md",
-    "Computer Sci/Unit 2/2.1.1 - Thinking Abstractedly.md",
-    "Computer Sci/Unit 2/2.1.3 - Thinking Procedurally.md",
-    "Pasted image 20260822121110.png",
-    "Computer Sci/Images/Pasted image 20260819154439.png",
-    "Computer Sci/Images/Pasted image 20260808105239.png",
-    "Pasted image 20260819154407.png",
-    "Business Studies/Component 1 - Opportunities and Finance/Business Functions.md",
-    "Business Studies/Component 1 - Opportunities and Finance/Markets.md",
-    "Business Studies/Component 1 - Opportunities and Finance/Component 1 - Opportunities and Finance.md",
-    "Business Studies/Component 2/Decision Making Models.md",
-    "Business Studies/Business Studies.md",
-    "Misc/Planning for Personal Statement.md",
-    "Misc/DOFE Restinatl stuff.md",
-    "Computer Sci/Computer Sci.md",
-    "Computer Sci/Unit 1/1 Table of contents.md",
-    "Misc/ASULondon.md",
-    "Computer.md",
-    "README.md",
-    "Business Studies/Images/Pasted image 20260728121520.png",
-    "Business Studies/Images/Pasted image 20260728105028.png",
-    "Business Studies/Images/Pasted image 20260728104753.png",
-    "Business Studies/Component 2/Globalization.md",
-    "Business Studies/Images/Pasted image 20260728103657.png",
-    "Computer Sci/Images/Pasted image 20260722205617.png",
-    "Computer Sci/Images/Pasted image 20260722205557.png",
-    "Computer Sci/Unit 2/2 Table of Contents.md",
-    "Misc/Liarary stuff/Book Report For Populus by Guy De La Bedoyere.md",
-    "Pasted image 20260613151544.png.md",
-    "Business Studies/Images",
-    "Computer Sci/Bases/2 Table of Contents.base",
-    "Business Studies/Component 2",
-    "Business Studies/Untitled.md",
-    "Computer Sci/Bases/1 Table of Contents.base",
-    "Misc/Images",
-    "Untitled.base",
-    "Misc/misc.md",
-    "Misc/My Agents Config..md",
-    "LICENSE",
-    "Business Studies/Images",
-    "Computer Sci/Bases",
-    "Computer Sci/Unit 2"
+    "Business Studies/Component 1 - Opportunities and Finance/Business Functions.md"
   ]
 }
