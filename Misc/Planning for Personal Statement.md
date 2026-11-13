@@ -4,6 +4,13 @@ Talk about my passion for everything software and my interest in its higher leve
 Introduce Arch Linux for the first time (Bring in Bios, Boot Manager and Disk Partition management)
 Talk about about my coding skill and how i am able to decompose problems 
 
+New addtions:
+
+Use the ABC method : action, benefit, Course 
+
+For example for arch that's the action, the benefit is knowledge, the application to the course its that this all falls under the Operating Systems umbrella which relates to the course.
+
+Add the reason why want to do this course and why I started computer science  for example (I want to future-proof my  career, my fun for it)
 
 Section 2
 How have your qualifications and studies helped you to prepare for this course or subject?
@@ -40,6 +47,10 @@ Also talk about that time i was experimenting with  V2ray, Azure, Shadow-socks a
 ^---- for the above i have asked Ms Y (Our head of sixth form) if its alright to add this and she said it was alright and that i should. 
 
 This actually has caused me to become really interested in cyber-security and  obfuscation
+
+Addtional Notes
+
+Mention how i am the tech guy at home and often fix our computers and often find it enjoyable 
 
 
 avoid using 

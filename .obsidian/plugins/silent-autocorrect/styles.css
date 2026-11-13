@@ -1,0 +1,335 @@
+/* Silent Autocorrect styles */
+
+
+
+
+
+
+/* Obsidian Bottom Status Bar Integration */
+.status-bar-item.plugin-silent-autocorrect-bar {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 0 4px;
+  font-size: 11px;
+  font-family: var(--font-ui);
+}
+
+.plugin-silent-autocorrect-bar .status-bar-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  padding: 1px 6px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  background: var(--background-modifier-form-field);
+  border: 1px solid var(--background-modifier-border);
+  color: var(--text-muted);
+  user-select: none;
+  font-size: 11px;
+}
+
+.plugin-silent-autocorrect-bar .status-bar-pill:hover {
+  background: var(--background-modifier-hover);
+  color: var(--text-normal);
+  border-color: var(--interactive-accent);
+}
+
+.plugin-silent-autocorrect-bar .status-bar-add-btn {
+  background: rgba(16, 185, 129, 0.15);
+  border-color: rgba(16, 185, 129, 0.35);
+  color: #10b981;
+  font-weight: 500;
+}
+
+.plugin-silent-autocorrect-bar .status-bar-add-btn:hover {
+  background: rgba(16, 185, 129, 0.25);
+  color: #34d399;
+}
+
+.plugin-silent-autocorrect-bar .status-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.plugin-silent-autocorrect-bar .status-dot.active {
+  background-color: #10b981;
+  box-shadow: 0 0 4px #10b981;
+}
+
+.plugin-silent-autocorrect-bar .status-dot.inactive {
+  background-color: #ef4444;
+}
+
+.plugin-silent-autocorrect-bar .status-bar-metrics {
+  color: var(--text-faint);
+  font-size: 10px;
+  padding: 0 2px;
+}
+
+.plugin-silent-autocorrect-bar .status-bar-pill.pill-sens {
+  color: #c084fc;
+  font-family: var(--font-monospace);
+  font-size: 10px;
+}
+
+.plugin-silent-autocorrect-bar .status-bar-pill.pill-dict {
+  color: #a855f7;
+}
+
+.plugin-silent-autocorrect-bar .status-bar-pill.pill-fixed {
+  color: #60a5fa;
+  font-family: var(--font-monospace);
+}
+
+/* Modals & Badges */
+.spellcheck-dict-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 11px;
+  font-family: var(--font-monospace);
+  padding: 3px 8px;
+  border-radius: 4px;
+  background: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+  margin: 3px;
+}
+
+.spellcheck-dict-badge .remove-btn {
+  cursor: pointer;
+  color: var(--text-faint);
+  font-weight: bold;
+  padding: 0 2px;
+}
+
+.spellcheck-dict-badge .remove-btn:hover {
+  color: #ef4444;
+}
+
+.spellcheck-dict-tag {
+  font-size: 9px;
+  text-transform: uppercase;
+  color: #10b981;
+  padding: 1px 4px;
+  border-radius: 3px;
+  background: rgba(16, 185, 129, 0.15);
+}
+
+/* ------------------------------------------------------------------
+   Auto-corrections side panel (compact)
+   ------------------------------------------------------------------ */
+.mac-panel {
+  padding: 8px 8px 14px;
+  --mac-red: var(--color-red, #ef4444);
+  --mac-green: var(--color-green, #10b981);
+  --mac-amber: var(--color-yellow, #f59e0b);
+  --mac-orange: var(--color-orange, #f97316);
+}
+
+.mac-header { display: flex; align-items: center; justify-content: space-between; min-height: 20px; }
+
+.mac-title {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-normal);
+}
+
+.mac-count {
+  font-size: 10px;
+  font-weight: 500;
+  padding: 0 6px;
+  border-radius: 999px;
+  background: var(--background-modifier-hover);
+  color: var(--text-muted);
+  font-variant-numeric: tabular-nums;
+}
+
+.mac-clear {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  padding: 0;
+  background: transparent;
+  box-shadow: none;
+  border: none;
+  border-radius: 5px;
+  color: var(--text-faint);
+  cursor: pointer;
+}
+.mac-clear:hover { background: var(--background-modifier-hover); color: var(--text-normal); }
+.mac-clear.is-hidden { visibility: hidden; }
+.mac-clear svg { width: 12px; height: 12px; }
+
+.mac-sub { margin: 0 0 6px; font-size: 10.5px; color: var(--text-faint); }
+
+.mac-list { display: flex; flex-direction: column; gap: 3px; }
+
+.mac-card {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding: 4px 8px;
+  background: var(--background-primary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 7px;
+  transition: border-color 0.15s ease;
+}
+.mac-card:hover { border-color: var(--background-modifier-border-hover, var(--interactive-accent)); }
+.mac-card.is-reverted { opacity: 0.55; }
+.mac-card.is-reverted .mac-fixed { text-decoration: line-through; }
+
+.mac-fresh { animation: mac-pop 0.3s ease-out; }
+@keyframes mac-pop {
+  from { opacity: 0; transform: translateY(-4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+@media (prefers-reduced-motion: reduce) { .mac-fresh { animation: none; } }
+
+.mac-top { display: flex; align-items: center; justify-content: space-between; gap: 6px; }
+
+.mac-words {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  min-width: 0;
+  font-family: var(--font-monospace);
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: 600;
+}
+.mac-orig {
+  color: var(--mac-red);
+  text-decoration: line-through;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.mac-fixed { color: var(--mac-green); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.mac-arrow { display: inline-flex; color: var(--text-faint); flex: none; }
+.mac-arrow svg { width: 10px; height: 10px; }
+
+.mac-badge {
+  flex: none;
+  padding: 1px 5px;
+  border-radius: 4px;
+  font-size: 8px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  background: rgba(59, 130, 246, 0.15);
+  color: #3b82f6;
+}
+.mac-badge-medical { background: rgba(168, 85, 247, 0.15); color: #a855f7; }
+.mac-badge-shorthand { background: rgba(6, 182, 212, 0.15); color: #0891b2; }
+.mac-badge-case { background: rgba(245, 158, 11, 0.16); color: #d97706; }
+.mac-badge-spacing { background: rgba(236, 72, 153, 0.15); color: #db2777; }
+.mac-badge-custom { background: rgba(16, 185, 129, 0.15); color: #059669; }
+
+/* One line: meter, %, when/where, small Dict button */
+.mac-row { display: flex; align-items: center; gap: 7px; min-height: 16px; }
+
+.mac-conf { flex: none; display: flex; align-items: center; gap: 5px; }
+.mac-meter {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 38px;
+  height: 3px;
+  border: none;
+  border-radius: 999px;
+  background: var(--background-modifier-border);
+  overflow: hidden;
+  vertical-align: middle;
+}
+.mac-meter::-webkit-progress-bar { background: transparent; }
+.mac-meter::-webkit-progress-value { border-radius: 999px; transition: width 0.4s ease; }
+.mac-meter.mac-high::-webkit-progress-value { background: var(--mac-green); }
+.mac-meter.mac-mid::-webkit-progress-value { background: var(--mac-amber); }
+.mac-meter.mac-low::-webkit-progress-value { background: var(--mac-orange); }
+
+.mac-pct {
+  min-width: 27px;
+  font-size: 10px;
+  font-weight: 600;
+  color: var(--text-muted);
+  font-variant-numeric: tabular-nums;
+}
+
+.mac-meta {
+  flex: 1;
+  min-width: 0;
+  font-size: 10px;
+  color: var(--text-faint);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/* Small "+ Dict" button */
+.mac-dict {
+  flex: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 2px;
+  height: 16px;
+  padding: 0 5px 0 3px;
+  font-size: 9.5px;
+  font-weight: 500;
+  line-height: 1;
+  color: var(--text-muted);
+  background: transparent;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 4px;
+  box-shadow: none;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+.mac-dict:hover { color: var(--text-normal); border-color: var(--interactive-accent); background: var(--background-modifier-hover); }
+.mac-dict-icon { display: inline-flex; }
+.mac-dict-icon svg { width: 9px; height: 9px; }
+.mac-dict.is-added, .mac-dict.is-added:hover {
+  color: var(--mac-green);
+  border-color: transparent;
+  background: transparent;
+  cursor: default;
+}
+
+/* Empty state */
+.mac-empty { display: flex; flex-direction: column; align-items: center; gap: 4px; padding: 28px 14px; text-align: center; }
+.mac-empty-icon {
+  display: flex; align-items: center; justify-content: center;
+  width: 30px; height: 30px; margin-bottom: 2px;
+  border-radius: 8px;
+  background: var(--background-modifier-hover);
+  color: var(--text-faint);
+}
+.mac-empty-icon svg { width: 16px; height: 16px; }
+.mac-empty-title { font-size: 12px; font-weight: 600; color: var(--text-muted); }
+.mac-empty-text { font-size: 10.5px; color: var(--text-faint); max-width: 200px; line-height: 1.4; }
+
+/* Dictionary manager modal (replaces former inline styles) */
+.custom-words-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  max-height: 160px;
+  overflow-y: auto;
+  padding: 6px;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 6px;
+}
+
+.sac-bulk-textarea {
+  width: 100%;
+  font-family: var(--font-monospace);
+  font-size: 11px;
+  margin-bottom: 8px;
+  padding: 6px;
+}

@@ -14,7 +14,7 @@ Understanding this helps to make the most efficient use of time and resources.
 It also helps to identify the shortest time that a project is able to be completed within.
 
 
-![](</Pasted image 20260707200236.png>)
+![](</Business Studies/Images/Pasted image 20260707200236.png>)
 
 
 This is a critical path diagram 
@@ -23,7 +23,7 @@ the black number indicates the number of the node and the blue number indicates 
 
 here is a better diagram 
 
-![](</Pasted image 20260707200537.png>)
+![](</Business Studies/Images/Pasted image 20260707200537.png>)
 
 
 
@@ -44,7 +44,7 @@ They often have a letter assigned to it to keep track of it.
 
 for example 
 
-![](</Pasted image 20260707200924.png>)
+![](</Business Studies/Images/Pasted image 20260707200924.png>)
 
 
 ### Simultaneous Activities 
@@ -53,7 +53,7 @@ When more than one activity can start at the start time we call them simultaneou
 
 This looks like the example given below: 
 
-![408](</Pasted image 20260707201054.png>)
+![408](</Business Studies/Images/Pasted image 20260707201054.png>)
 
 
 ### Dependent Activities 
@@ -189,5 +189,19 @@ Cost Benefit Analysis in not an exact process - it is more art than judgement.
 
 Cost benefit analysis (CBA) is a method for measuring in financial terms, the costs and benefits of an investment.
 
-It includes a consideration of the 
+It includes a consideration of the **external costs and benefits** to society as well as the costs and benefits to just the business.
+
+CBA considers the following 
+- Economic - Growth, Costs, Revenue
+- Social - Charitable Contribution, Fair Trade, Employee Welfare
+- Environment- Land Use, Resource Consumption, Waste Management
+
+
+Increased Tourism
+Increased Outreach to more park users  
+Short Term Jobs
+
+They Gain Revenue 
+
+
 

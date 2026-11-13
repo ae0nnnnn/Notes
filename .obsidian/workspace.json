@@ -1,70 +1,37 @@
 {
   "main": {
-    "id": "120900a2b2facc7d",
+    "id": "9a64493e57e67371",
     "type": "split",
     "children": [
       {
-        "id": "515402c669605131",
+        "id": "3b3e4beae20961cb",
         "type": "tabs",
         "children": [
           {
-            "id": "8d97263b016da5d9",
+            "id": "18e82500e5dd9c89",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Business Studies/Component 1 - Opportunities and Finance/Business Functions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Business Functions"
-            }
-          },
-          {
-            "id": "a79f212975261d12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Sci/Unit 1/1.3.3 - Networks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.3.3 - Networks"
-            }
-          },
-          {
-            "id": "c28a277ed21a5733",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Sci/Unit 1/1.2.4 - Types of Programming Languages.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.2.4 - Types of Programming Languages"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6c7882cdd6482b22",
+    "id": "e4029ef1532c2b7e",
     "type": "split",
     "children": [
       {
-        "id": "370005f6dd876f21",
+        "id": "cdc70f33380929c3",
         "type": "tabs",
         "children": [
           {
-            "id": "353c7a92e0a3226a",
+            "id": "8f0c7757f5fbf774",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -79,7 +46,7 @@
             }
           },
           {
-            "id": "56981e2937157af9",
+            "id": "27413fd347999cb8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -88,7 +55,7 @@
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -96,7 +63,7 @@
             }
           },
           {
-            "id": "39a8a3fcaf54a462",
+            "id": "e11ed34aba34ab25",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -112,24 +79,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300.9765625
   },
   "right": {
-    "id": "d78fc5d0e2968ccb",
+    "id": "a842b95b70710439",
     "type": "split",
     "children": [
       {
-        "id": "dbe300b51d3c0286",
+        "id": "0a0a69ff212b9b14",
         "type": "tabs",
         "children": [
           {
-            "id": "4f725d91c04c3e44",
+            "id": "a4a0df98b3658c63",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Sci/Unit 1/1.2.4 - Types of Programming Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +108,7 @@
             }
           },
           {
-            "id": "dbd0d02ae65077a4",
+            "id": "a43f771fed38d614",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -156,7 +121,7 @@
             }
           },
           {
-            "id": "93e1f43823a3e532",
+            "id": "4383a2705262456b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -171,7 +136,7 @@
             }
           },
           {
-            "id": "54feb382fbc2364b",
+            "id": "3eb8c3546694ee00",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -185,31 +150,21 @@
             }
           },
           {
-            "id": "90ce5ded2ddc91d3",
+            "id": "17697ff6554fdbf4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "followCursor": false,
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
-          {
-            "id": "bd344e355e1a3ce1",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -224,15 +179,53 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "silent-autocorrect:Add word to dictionary": false,
+      "silent-autocorrect:Show auto-corrections": false
     }
   },
-  "active": "c28a277ed21a5733",
+  "active": "18e82500e5dd9c89",
   "lastOpenFiles": [
-    "Computer Sci/Unit 1/1.3.2 - Databases.md",
-    "Computer Sci/Unit 1/1.3.3 - Networks.md",
-    "Computer Sci/Unit 1/1.3.3 - Network Security.md",
+    "Computer Sci/Unit 1/1.5.2 - Moral Ethical, Social, Cultural & Environmental.md",
+    "Computer Sci/Unit 1/1.4.1 - Data Types.md",
+    "Computer Sci/Exam Tech.md",
+    "Business Studies/Exam Techinique.md",
+    "Business Studies/Component 1 - Opportunities and Finance/Opportunities.md",
+    "Business Studies/Component 1 - Opportunities and Finance/Operations Management.md",
+    "Business Studies/Component 1 - Opportunities and Finance/Markets.md",
+    "Business Studies/Formulas At a Glance.md",
     "Computer Sci/Unit 1/1.2.4 - Types of Programming Languages.md",
-    "Business Studies/Component 1 - Opportunities and Finance/Business Functions.md"
+    "Computer Sci/Computer Sci.md",
+    "Business Studies/Business Studies.md",
+    "Computer Sci/Unit 1/1.3.2 - Databases.md",
+    "Computer Sci/Unit 1/1.1.3 - Processor Types.md",
+    "Computer Sci/Unit 2/2.3.1 - Algortihms.md",
+    "Computer Sci/Unit 2/2.1.2 -  Thinking Ahead.md",
+    "Computer Sci/Unit 2/2.1.1 - Thinking Abstractedly.md",
+    "Computer Sci/CourseWork/Psyecode.md",
+    "Business Studies/Component 2/Decision Making Models.md",
+    "Business Studies/Component 2/Measures of Financial Performance.md",
+    "Business Studies/Component 2/Growth and Strategies.md",
+    "Business Studies/Component 2/Globalization.md",
+    "Business Studies/Component 1 - Opportunities and Finance/Component 1 - Opportunities and Finance.md",
+    "Business Studies/Component 1 - Opportunities and Finance/Human Resources.md",
+    "Business Studies/Component 1 - Opportunities and Finance/Business Functions.md",
+    "file:/home/aeon/.agents/AGENTS.md",
+    "file:/home/aeon/.cline/agents.md",
+    "Further Maths/AS FD1 - June 2026 AB Ans.pdf",
+    "Untitled.base",
+    "Business Studies/Images/Pasted image 20261027133928.png",
+    "Business Studies/Images/Pasted image 20261027133746.png",
+    "Business Studies/Images/Pasted image 20261027133631.png",
+    "Business Studies/Images/Pasted image 20261027133529.png",
+    "Business Studies/Images/Pasted image 20261027110222.png",
+    "Business Studies/Images/Pasted image 20261027110307.png",
+    "Business Studies/Images/Pasted image 20261027111014.png",
+    "Business Studies/Images/Pasted image 20261027110115.png",
+    "Computer Sci/Images/Pasted image 20261023201449.png",
+    "Computer Sci/Images/Pasted image 20261023201418.png",
+    "Further Maths/HomeWorkMechEPE.xopp~",
+    "Further Maths/HomeWorkMechEPE.pdf",
+    "Further Maths/HomeWorkMechEPE.xopp"
   ]
 }

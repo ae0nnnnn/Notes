@@ -1,6 +1,10 @@
 {
+  "enabledSnippets": [
+    "silent-autocorrect-hide-bar"
+  ],
   "showLineNumber": false,
-  "showInlineTitle": true,
+  "showInlineTitle": false,
   "useMarkdownLinks": true,
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "absolute",
+  "readableLineLength": true
 }

@@ -221,7 +221,10 @@ These characteristics include;
 4. The degree of completion between the firms in the market
 5. The types of barriers to entry and exit 
 
-Barriers to Entry - These are the circumstances that would prevent  a new firm joining a market. Generally, the greater the barriers to entry, the less competitive the market. 
+
+### Barriers to Entry
+
+ These are the circumstances that would prevent  a new firm joining a market. Generally, the greater the barriers to entry, the less competitive the market. 
 
 Economies of Scale - Lower costs per unit for larger firms already established will not be experienced by new entrants 
 

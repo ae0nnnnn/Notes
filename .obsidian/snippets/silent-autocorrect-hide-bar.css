@@ -1,0 +1,5 @@
+/* Silent Autocorrect - hide bottom status bar clutter */
+/* Hides the whole bar: word counts, Add Word, ON/OFF, sensitivity, sub-dicts, fixed counter */
+.status-bar-item.plugin-silent-autocorrect-bar {
+  display: none !important;
+}

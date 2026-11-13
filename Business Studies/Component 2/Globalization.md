@@ -48,3 +48,7 @@ By reducing protectionist barriers (tariffs, quotas, etc.), countries are encour
 MNCs are businesses that operate in a large number of countries around the world. MNCs are the engines of globalization. They don't just trade; they relocate the production.
 
 MNCs allow for **allow for global supply chains to develop**: they break down the production process across different nations to maximize productive efficiency and minimize costs
+
+
+
+

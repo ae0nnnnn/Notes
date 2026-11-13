@@ -4,5 +4,8 @@
   "obsidian-icon-folder",
   "backlink-cache",
   "better-markdown-links",
-  "consistent-attachments-and-links"
+  "consistent-attachments-and-links",
+  "languagetool",
+  "obsidian-linter",
+  "silent-autocorrect"
 ]
