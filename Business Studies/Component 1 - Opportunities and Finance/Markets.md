@@ -352,7 +352,7 @@ Cartel agreements to fix prices allow efficient firms to make abnormal profit, a
 Collusive oligopolies therefore present many of the disadvantages founds in a monopoly, but without the benefits of economies of scale and improvements in efficiency/ R&D.
 
 #### Evaluating Oligopolies 
-![](</Business Studies/Images/Pasted image 20260721121318.png>)
+![](</Business Studies/Misc/Images 1/Pasted image 20260721121318.png>)
 
 ### Monopoly 
 

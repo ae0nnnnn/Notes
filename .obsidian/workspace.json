@@ -11,10 +11,14 @@
             "id": "18e82500e5dd9c89",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -163,8 +170,7 @@
               "title": "Outline"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,7 +190,7 @@
       "silent-autocorrect:Show auto-corrections": false
     }
   },
-  "active": "18e82500e5dd9c89",
+  "active": "a4a0df98b3658c63",
   "lastOpenFiles": [
     "Computer Sci/Unit 1/1.5.2 - Moral Ethical, Social, Cultural & Environmental.md",
     "Computer Sci/Unit 1/1.4.1 - Data Types.md",
@@ -214,14 +220,14 @@
     "file:/home/aeon/.cline/agents.md",
     "Further Maths/AS FD1 - June 2026 AB Ans.pdf",
     "Untitled.base",
-    "Business Studies/Images/Pasted image 20261027133928.png",
-    "Business Studies/Images/Pasted image 20261027133746.png",
-    "Business Studies/Images/Pasted image 20261027133631.png",
-    "Business Studies/Images/Pasted image 20261027133529.png",
-    "Business Studies/Images/Pasted image 20261027110222.png",
-    "Business Studies/Images/Pasted image 20261027110307.png",
-    "Business Studies/Images/Pasted image 20261027111014.png",
-    "Business Studies/Images/Pasted image 20261027110115.png",
+    "Misc/Images 1/Pasted image 20261027133928.png",
+    "Misc/Images 1/Pasted image 20261027133746.png",
+    "Misc/Images 1/Pasted image 20261027133631.png",
+    "Misc/Images 1/Pasted image 20261027133529.png",
+    "Misc/Images 1/Pasted image 20261027110222.png",
+    "Misc/Images 1/Pasted image 20261027110307.png",
+    "Misc/Images 1/Pasted image 20261027111014.png",
+    "Misc/Images 1/Pasted image 20261027110115.png",
     "Computer Sci/Images/Pasted image 20261023201449.png",
     "Computer Sci/Images/Pasted image 20261023201418.png",
     "Further Maths/HomeWorkMechEPE.xopp~",

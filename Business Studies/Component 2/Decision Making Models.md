@@ -14,7 +14,7 @@ Understanding this helps to make the most efficient use of time and resources.
 It also helps to identify the shortest time that a project is able to be completed within.
 
 
-![](</Business Studies/Images/Pasted image 20260707200236.png>)
+![](</Misc/Images 1/Pasted image 20260707200236.png>)
 
 
 This is a critical path diagram 

@@ -45,7 +45,7 @@ And secondly there is Leads to, Which Causes, Resulting in
 ### Example Case Study Model Ans
 
 
-![](</Business Studies/Images/Pasted image 20261027110115.png>)
+![](</Misc/Images 1/Pasted image 20261027110115.png>)
 
 Analyse one way in which a rise in income could affect demand for BMW cars. (6)
 
