@@ -169,8 +169,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "fcb15ef31234d5c8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -190,7 +201,7 @@
       "silent-autocorrect:Show auto-corrections": false
     }
   },
-  "active": "a4a0df98b3658c63",
+  "active": "17697ff6554fdbf4",
   "lastOpenFiles": [
     "Computer Sci/Unit 1/1.5.2 - Moral Ethical, Social, Cultural & Environmental.md",
     "Computer Sci/Unit 1/1.4.1 - Data Types.md",
