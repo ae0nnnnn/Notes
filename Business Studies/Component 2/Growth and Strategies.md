@@ -11,7 +11,7 @@ He recognized that as a firm moved away from that it knows best i.e. its current
 
 However trying to just sell more of an existing product in an existing market is unlikely to being out substantial growth opportunities.
 
-![](</Misc/Images 1/Pasted image 20260907112204.png>)
+![](</Business Studies/Images 1/Pasted image 20260907112204.png>)
 
 
 ![](</Business Studies/Images/Pasted image 20260907112330.png>)

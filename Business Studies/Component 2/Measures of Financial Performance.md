@@ -37,7 +37,7 @@ A standard company balance sheet has three parts: assets, liabilities, and owner
 
 The Balance sheet has two sides that must be equal or balance each other out. The logic behind it is that a company must pay for its assets by borrowing money from lenders or though investors → This is the concept of double-entry
 
-![](</Misc/Images 1/Pasted image 20261013202227.png>)
+![](</Business Studies/Images 1/Pasted image 20261013202227.png>)
 
 
 For example Bob's to
